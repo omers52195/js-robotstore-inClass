@@ -1,0 +1,52 @@
+/*ALL PAGES*/
+body {
+  background-color:lightgreen;
+}
+
+#headername {
+  font-size: 100px;
+  font-family: fantasy;
+  /*position:absolute;*/
+}
+.searchbox {
+  /*position: absolute;
+  display:inline-block;*/
+  float:right;
+}
+
+.navbar-background {
+  /*list-style-type: none;
+  background-color: lightblue;
+  text-align: left;*/
+  list-style: none;
+
+}
+
+.backgroundgradient {
+  list-style: none;
+  background-color: lightblue;
+  text-align: left;
+  display: hidden;
+}
+a img {
+  width: 250px;
+  height: 250px;
+}
+footer {
+  background-color: lightblue;
+  text-align: center;
+}
+/*HOME PAGE*/
+span {
+  column-count: 2;
+}
+/*ROBOTS PAGE*/
+
+/*HARDWARE PAGE*/
+label[type="radio"] {
+  border-width: 0px
+  border: 0;
+}
+label[type="checkbox"] {
+
+}
